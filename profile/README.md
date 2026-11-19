@@ -20,7 +20,7 @@ edersin.
 
 1. **Ürün ve fiyatı gör:** ekrandaki ürünü ve fiyatını incele.
 2. **Tarihi tahmin et:** fiyatın hangi tarihte geçerli olduğuna karar ver.
-3. **Puan kazan:** tahmin ettikçe puan topla, adını Ekonomi Ustaları arasına yaz.
+3. **Puan kazan:** tahmin ettikçe puan topla, adını Enflasyon Uzmanları arasına yaz.
 
 | Mod | |
 | --- | --- |
@@ -40,7 +40,7 @@ valid.
 
 1. **See a product and its price.**
 2. **Guess when** that price was valid.
-3. **Earn points** with every guess and write your name among the Economy Masters.
+3. **Earn points** with every guess and write your name among the Inflation Experts.
 
 | Mode | |
 | --- | --- |
